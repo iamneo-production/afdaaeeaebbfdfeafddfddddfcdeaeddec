@@ -41,5 +41,5 @@ public class StringAdvanceMethod {
 
     public String trim(String i1) {
         return i1.trim();
-    }
+	}
 }

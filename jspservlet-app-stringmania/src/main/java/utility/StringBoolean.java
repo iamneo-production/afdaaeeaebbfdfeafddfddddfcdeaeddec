@@ -38,7 +38,5 @@ public boolean equals(String ip1,String ip2) {
 
 public boolean equalsIgnoreCase(String input1,String input2) {
     return input1.equalsIgnoreCase(input2);
-    }
-
-
+    }
 }
